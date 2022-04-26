@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.1...v1.0.2) (2022-04-26)
+
+
+### Bug Fixes
+
+* set id for release-please-action ([0baea9e](https://github.com/remarkablemark/hello-world-composite-action/commit/0baea9eb61a7b2bde82d5007b51407cbe812aacb))
+
 ### [1.0.1](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.0...v1.0.1) (2022-04-26)
 
 
