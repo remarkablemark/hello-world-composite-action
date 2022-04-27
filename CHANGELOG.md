@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.5](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.4...v1.0.5) (2022-04-27)
+
+
+### Bug Fixes
+
+* return random-number in action.yml ([e0563ea](https://github.com/remarkablemark/hello-world-composite-action/commit/e0563ea5585d5b492ed6f4b5361479d81e3254a2))
+
 ### [1.0.4](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.3...v1.0.4) (2022-04-27)
 
 
