@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.2...v1.0.3) (2022-04-27)
+
+
+### Bug Fixes
+
+* update run command in action.yml ([f20895a](https://github.com/remarkablemark/hello-world-composite-action/commit/f20895aba8fea108a7cb2d19394fd4b7e920a402))
+
 ### [1.0.2](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.1...v1.0.2) (2022-04-26)
 
 
