@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.3...v1.0.4) (2022-04-27)
+
+
+### Bug Fixes
+
+* add back required missing property shell ([f071fba](https://github.com/remarkablemark/hello-world-composite-action/commit/f071fba7675c690882b9a5a7a41f0bd3a5c5723c))
+
 ### [1.0.3](https://github.com/remarkablemark/hello-world-composite-action/compare/v1.0.2...v1.0.3) (2022-04-27)
 
 
